@@ -1,5 +1,5 @@
 ---
-description: Libertyプロジェクト全体を一発健康診断（設定/ビルド/ログ/よくある起動失敗原因/軽いfeatureチェック）。詳細なfeature最小化・差分分析が必要なら /liberty-feature-min に誘導する。
+description: Libertyプロジェクト全体を一発健康診断（設定/ビルド/ログ/よくある起動失敗原因/軽いfeatureチェック）。
 argument-hint: "[任意] <探索ルート or server.xmlパス>"
 ---
 
